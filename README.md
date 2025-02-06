@@ -15,7 +15,7 @@ Focus Flow is a **session tracker** designed to help users efficiently manage th
 ✅ **Minimalist UI** – A clean and distraction-free interface to keep you focused.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React + Tailwind CSS  
+- **Frontend:** Type Script + Tailwind CSS  
 - **Backend:** Node.js + Express  
 - **Database:** PostgreSQL (Supabase or Prisma ORM)  
 
